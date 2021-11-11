@@ -5,5 +5,7 @@ class Circle
         @y = y
     end
 
-
+    def hello 
+        puts "Hello!"
+    end
 end
